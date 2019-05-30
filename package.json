@@ -1,0 +1,17 @@
+{
+  "name": "domreadify",
+  "version": "1.0.0",
+  "description": "Browserify transform to execute the script only on DOM ready",
+  "main": "domreadify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Yuri Sitnikov",
+    "email": "y.sitnikoff@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "browserify-transform-tools": "^1.7.0"
+  }
+}
